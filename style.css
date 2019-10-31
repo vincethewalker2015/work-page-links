@@ -1,0 +1,65 @@
+.well {
+    font-family: 'Muli', sans-serif;
+  }
+  
+  .jumbotron {
+    font-family: 'Muli', sans-serif;
+  }
+  
+  .button, a {
+    font-family: 'Muli', sans-serif !important;
+  }
+  
+  .btn btn-primary {
+    font-family: 'Muli', sans-serif;
+  }
+  
+  .chapter {
+    font-family: 'Muli', sans-serif;
+  }
+  
+  .red {
+    color: red;
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  
+  .btn-default-black {
+    background-color: #000000;
+    color: white;
+  }
+  .btn-default-black, a:hover {
+    color: white !important;
+  }
+  
+  
+  
+  .btn-default-purple {
+    background-color: #660099;
+    color: white !important; 
+    
+  }
+  .btn-default-purple, a:hover {
+    color: white !important;
+    text-decoration: none;
+  }
+  
+  .btn-default-brown {
+    background-color: #8B4513;
+    color: white !important; 
+  }
+  
+  .btn-default-brown, a:hover {
+    color: white !important;
+    text-decoration: none;
+  }
+  
+  .list-text-large {
+    font-size: 16px;
+    color: #006699;
+  }
+  
+  .links, a {
+    text-decoration: none;
+  }
+  
